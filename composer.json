@@ -1,9 +1,9 @@
 {
-    "name": "purabi/purabi",
-    "description": "The Purabi Framework.",
+    "name": "arrora/arrora",
+    "description": "The PHP Framework.",
     "keywords": [
         "framework",
-        "purabi",
+        "arrora",
         "php-framework"
     ],
     "license": "MIT",
